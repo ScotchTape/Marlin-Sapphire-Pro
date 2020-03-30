@@ -96,6 +96,11 @@
 #define FAN_PIN            PB1   // FAN
 
 //
+// Servos
+//
+#define SERVO0_PIN         PA8
+
+//
 // Thermocouples
 //
 //#define MAX6675_SS_PIN     PE5  // TC1 - CS1
